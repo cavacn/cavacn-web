@@ -19,3 +19,9 @@ cd redis-2.8.12
 make
 make test
 cd ..
+cd ..
+mkdir activeMQ
+cd activeMQ
+wget http://archive.apache.org/dist/activemq/apache-activemq/5.9.0/apache-activemq-5.9.0-bin.tar.gz
+tar -xvf apache-activemq-5.9.0-bin.tar.gz
+
