@@ -1,3 +1,4 @@
+yum install git -y
 cd /home
 mkdir nodejs
 cd nodejs
